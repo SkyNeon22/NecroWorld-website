@@ -1,0 +1,20 @@
+*{
+    padding: 20;
+    margin: 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+    }
+    
+    section{
+    height: 100vh;
+    border: 4px solid grey;
+    color: gray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    }
+    h1{
+        border: 10px solid gray;
+        padding: 10;
+    }
+    
